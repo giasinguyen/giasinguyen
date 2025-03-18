@@ -32,7 +32,8 @@ I am a Full Stack Developer with a huge love for JAVA, Spring Boot, Spring MVC, 
 ---
 
 ## GitHub Activity
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giasinguyen&show_icons=true&locale=en&layout=compact" alt="giasinguyen" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=giasinguyen&show_icons=true&locale=en&layout=compact)](https://github.com/giasinguyen)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&locale=en)](https://github.com/giasinguyen)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&)](https://github.com/giasinguyen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&locale=en" alt="giasinguyen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&" alt="giasinguyen" /></p>
