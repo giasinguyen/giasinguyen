@@ -1,10 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M GIA SĨ!
 **Full Stack Developer**
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-I am a Full Stack Developer passionate about building scalable and efficient applications using Java, Spring Boot, Spring MVC, React.js, Node.js, and RESTful APIs.
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<h3 align="center">I am a Full Stack Developer passionate about building scalable and efficient applications using Java, Spring Boot, Spring MVC, React.js, Node.js, and RESTful APIs.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat" alt="giasinguyen" /> </p>
 
