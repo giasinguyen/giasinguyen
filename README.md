@@ -11,8 +11,6 @@ I am a Full Stack Developer with a huge love for JAVA, Spring Boot, Spring MVC, 
 
 ## 📊 GitHub Stats
 
-> A passionate frontend developer from India
-
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=giasinguyen)](https://github.com/ryo-ma/github-profile-trophy)
