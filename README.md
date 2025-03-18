@@ -21,8 +21,10 @@ I am a Full Stack Developer with a huge love for JAVA, Spring Boot, Spring MVC, 
 
 ## Connect with Me
 
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/user.ntgs)
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/giasinguyen)
+<p align="left">
+<a href="https://fb.com/user.ntgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="user.ntgs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/giasinguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="giasinguyen" height="30" width="40" /></a>
+</p>
 
 ---
 
