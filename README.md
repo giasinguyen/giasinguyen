@@ -1,8 +1,9 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M GIA SĨ!
 **Full Stack Developer**
 
-I am a Full Stack Developer with a huge love for JAVA, Spring Boot, Spring MVC, React.js, Node.js, REST API...
+<img align="right" alt="Coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 
+I am a Full Stack Developer passionate about building scalable and efficient applications using Java, Spring Boot, Spring MVC, React.js, Node.js, and RESTful APIs.
 - ✨ **Student of life** :)
 - 🌱 **Learning every day:** I believe every day is a learning opportunity.
 - 💻 **Portfolio:** [Visit my Portfolio](https://github.com/giasinguyen)
