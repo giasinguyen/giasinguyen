@@ -1,13 +1,3 @@
-# I'M GIA SĨ!
-
-**Full Stack Developer**
-
-Tôi là một Full Stack Developer đam mê xây dựng các ứng dụng có khả năng mở rộng và hiệu quả với Java, Spring Boot, Spring MVC, React.js, Node.js, và RESTful APIs.
-
-<!-- GIF avatar -->
-![Avatar](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)
-
-<!-- GIF minh họa coding -->
 <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiZ2lhc2luZ3V5ZW4iLCJpYXQiOjE3NDMzNTE2MTN9.Mef67OkNLvbNUl2cw3V8HpIg5pTk69ePrv-M1Om7mKs" alt="GIF từ Giphy">
 
 **Back-End Developer**
