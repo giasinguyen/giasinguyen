@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/giasinguyen/giasinguyen/giasinguyen.svg" alt="giasinguyen" />
+  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasinguyen.svg" alt="giasinguyen" />
 </h1>
 <h1 align="center"> Hi 👋🏻, I'm Nguyễn Trần Gia Sĩ </br> 
 </h1>
