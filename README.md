@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+I'm;%E2%9C%A8+Gia;%F0%9F%94%A5+Si" alt="Typing SVG" /></a>
 <p align="center">BACK-END DEVELOPER⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
