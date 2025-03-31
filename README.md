@@ -2,10 +2,11 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
 </h1>
 <p align="center" style="margin-left: 100px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <a target="_blank" style="display: flex; justify-content: center; align-items: center;">
+  <a target="_blank" style="display: flex; justify-content: center; align-items: center; margin-left: 50px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+I'm+Gia+Si;%E2%9C%A8+Nguyen+Tran+Gia+Si;%F0%9F%94%A5+BACK-END+DEVELOPER" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 <a href="https://twitter.com/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
