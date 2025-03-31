@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/giasinguyen/giasinguyen/giasinguyen.svg" alt="giasinguyen" />
+</h1>
 <h1 align="center"> Hi 👋🏻, I'm Nguyễn Trần Gia Sĩ </br> 
 </h1>
 <p align="center">**Back-End Developer**⚡</p>
