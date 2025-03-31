@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
 </h1>
-<p align="center">Backend Developer</p>
+<h2 align="center">**Backend Developer**</h2>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 <a href="https://twitter.com/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
