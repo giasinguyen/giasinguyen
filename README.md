@@ -1,8 +1,8 @@
 <h1 align="center" style="margin-left: 10px;">
-  <img  style="margin-left: 10px; src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
+  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
 </h1>
-<p align="center" style="margin-left: 10px;">
-  <a href="https://git.io/typing-svg">
+<p align="center" style="margin-left: 20px;">
+  <a style="margin-left: 20px; href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+I'm+Gia+Si;%E2%9C%A8+Nguyen+Tran+Gia+Si;%F0%9F%94%A5+giasinguyen" alt="Typing SVG" />
   </a>
 </p>
@@ -35,10 +35,6 @@
 
 ### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-<br />
-
-#
 
 ## Connect with Me
 <p align="left">
