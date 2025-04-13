@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-left: 10px;">
-  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasi.svg" alt="I'm Gia Si" />
+  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/iamgiasi.svg" alt="I'm Gia Si" />
 </h1>
 <h2 align="center">⚡Backend Developer⚡</h2>
 <p align="center">Turning imagination into reality 🚀</p>
