@@ -4,7 +4,6 @@
 <h2 align="center">⚡JAVA Backend Developer⚡</h2>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-<a href="https://twitter.com/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/iamgiasi" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
