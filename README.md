@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/iamgiasi.svg" alt="I'm Gia Si" />
 </h1>
-<h2 align="center"><img src="https://github.com/giasinguyen/giasinguyen/blob/main/giasinguyen.svg" /></h2>
+<h2 align="center">⚡JAVA Backend Developer⚡</h2>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 <a href="https://linkedin.com/in/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -38,6 +38,3 @@
 
 | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Giasinguyen's github stats" /></a> | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-
