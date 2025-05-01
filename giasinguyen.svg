@@ -1,0 +1,82 @@
+<svg width="100%" height="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Định nghĩa gradient đen–trắng -->
+    <linearGradient id="bwGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000" />
+      <stop offset="50%" stop-color="#fff" />
+      <stop offset="100%" stop-color="#000" />
+    </linearGradient>
+
+    <!-- Định nghĩa CSS animations cho hiệu ứng typewriter, fade-in và cursor -->
+    <style type="text/css"><![CDATA[
+      text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 24px;
+        fill: url(#bwGrad);
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      /* Hiệu ứng ẩn chữ bằng clip-path và typewriter */
+      @keyframes typewriter {
+        from { clip-path: inset(0 100% 0 0); }
+        to   { clip-path: inset(0 0 0 0); }
+      }
+
+      /* Hiệu ứng nhấp nháy con trỏ */
+      @keyframes blinkCaret {
+        50% { opacity: 0; }
+      }
+
+      /* Hiệu ứng fade-in nhẹ cho mỗi dòng */
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+
+      /* Cấu hình các dòng text */
+      .line1 {
+        opacity: 0;
+        animation:
+          fadeIn 0.5s ease forwards 0s,
+          typewriter 2s steps(30) forwards 0s,
+          blinkCaret 0.8s step-end infinite 2s;
+      }
+      .line2 {
+        opacity: 0;
+        animation:
+          fadeIn 0.5s ease forwards 2.5s,
+          typewriter 2s steps(30) forwards 2.5s,
+          blinkCaret 0.8s step-end infinite 4.5s;
+      }
+      .line3 {
+        opacity: 0;
+        animation:
+          fadeIn 0.5s ease forwards 5s,
+          typewriter 1s steps(10) forwards 5s,
+          blinkCaret 0.8s step-end infinite 6s;
+      }
+      .line4 {
+        opacity: 0;
+        animation:
+          fadeIn 0.5s ease forwards 7s,
+          typewriter 1.5s steps(20) forwards 7s,
+          blinkCaret 0.8s step-end infinite 8.5s;
+      }
+    ]]></style>
+  </defs>
+
+  <!-- Các dòng text, căn giữa theo trục x, responsive -->
+  <text x="50%" y="50" text-anchor="middle" class="line1">
+    JAVA Backend Developer
+  </text>
+  <text x="50%" y="90" text-anchor="middle" class="line2">
+    Spring Boot / React JS ...
+  </text>
+  <text x="50%" y="130" text-anchor="middle" class="line3">
+    JAVA
+  </text>
+  <text x="50%" y="170" text-anchor="middle" class="line4">
+    Nguyen Tran Gia Si
+  </text>
+</svg>
