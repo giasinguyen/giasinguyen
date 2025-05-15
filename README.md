@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/iamgiasi" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-- 🔭 I'm currently studying at **Industrial University of Ho Chi Minh City**
+- 🔭 I'm currently studying at **Industrial University of Ho Chi Minh City - IUH**
 
 - 📫 How to reach me **giasinguyentran@gmail.com**
 
