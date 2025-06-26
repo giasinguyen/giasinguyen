@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently studying at **Industrial University of Ho Chi Minh City - IUH**
 
-- 📫 How to reach me **giasinguyentran@gmail.com**
+- 📫 How to reach me: **giasinguyentran@gmail.com**
 
 - ⚡ Fun fact **I am always cheerful and sociable**
 ---
