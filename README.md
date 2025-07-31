@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-left: 10px;">
-  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/iamgiasi.svg" alt="iamgiasi" />
+  <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <h2 align="center">⚡JAVA Backend Developer⚡</h2>
 <p align="center">Turning imagination into reality 🚀</p>
