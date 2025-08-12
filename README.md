@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **giasinguyentran@gmail.com**
 
-- ⚡ Fun fact **I am always cheerful and sociable**
+- ⚡ My Portfolio: https://nguyentrangiasi.id.vn/
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 
