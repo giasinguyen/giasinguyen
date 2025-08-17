@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
-<h2 align="center">⚡Backend Developer⚡</h2>
+<h2 align="center">⚡JAVA Backend Developer⚡</h2>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 <a href="https://linkedin.com/in/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
