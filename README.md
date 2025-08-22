@@ -32,7 +32,7 @@
 
 ## Connect with Me
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/iamgiasi](https://www.youtube.com/@iamgiasi))
-[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamgiasi)
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giasinguyen)
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)]([https://LinkedIn.com/giasinguyen](https://[LinkedIn.com/giasinguyen](https://www.linkedin.com/in/giasinguyen/)))
 </p>
 
