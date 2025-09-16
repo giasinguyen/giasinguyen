@@ -38,3 +38,18 @@
 
 | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Giasinguyen's github stats" /></a> | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
