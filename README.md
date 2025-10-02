@@ -1,18 +1,27 @@
 <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
-<h2 align="center">⚡Backend Developer⚡</h2>
-<p align="center">Turning imagination into reality 🚀</p>
-<p align="center">
-<a href="https://linkedin.com/in/giasinguyen" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/iamgiasi" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<div align="center">
+  <a href="https://nguyentrangiasi.id.vn" target="blank">
+    <img width="90" height="90" src="logo-github.png" alt="nguyentrangiasi" />
+  </a>
+  <a href="https://facebook.com/USER.NTGS" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyentrangiasi" />
+  </a>
+  <a href="https://youtube.com/@iamgiasi" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyentrangiasi" />
+  </a>
+  <a href="https://www.linkedin.com/in/giasinguyen" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyentrangiasi" />
+  </a>
+  <a href="https://instagram.com/giasinguyen" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyentrangiasi" />
+  </a>
+  <a href="mailto:giasinguyentran@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyentrangiasi" />
+  </a>
+</div>
 
-- 🔭 I'm currently studying at **Industrial University of Ho Chi Minh City - IUH**
-
-- 📫 How to reach me: **giasinguyentran@gmail.com**
-
-- ⚡ My Portfolio: https://nguyentrangiasi.id.vn/
----
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 
 ### 🧰 Languages and Tools
@@ -52,8 +61,4 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&theme=react-dark)](https://github.com/giasinguyen)
 
-<div align="center">
-  <image src="cat.gif">
-</div>
-| ------------- | ------------- |
 
