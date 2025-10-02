@@ -1,6 +1,9 @@
 <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
+<br>
+<h2 align="center">You Can Reach Me At 🔗</h2>
+<br>
 <div align="center">
   <a href="https://nguyentrangiasi.id.vn" target="blank">
     <img width="90" height="90" src="logo-github.png" alt="nguyentrangiasi" />
