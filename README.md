@@ -36,6 +36,24 @@
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)]([https://LinkedIn.com/giasinguyen](https://[LinkedIn.com/giasinguyen](https://www.linkedin.com/in/giasinguyen/)))
 </p>
 
-| <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Giasinguyen's github stats" /></a> | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide_border=true" /></a> |
+<div align="center">  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexcao194&theme=radical)
+</div>
+<div align="center">
+<table>
+  
+| My Github Stats             | My most used languages |
+:-:|:-:
+[![Stats](https://acedev003-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/giasinguyen)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/giasinguyen)
+</table>
+  </div>
+
+###
+[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&theme=react-dark)](https://github.com/giasinguyen)
+
+<div align="center">
+  <image src="cat.gif">
+</div>
 | ------------- | ------------- |
 
