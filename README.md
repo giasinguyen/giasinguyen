@@ -38,7 +38,7 @@
 
 <div align="center">  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexcao194&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&theme=radical)
 </div>
 <div align="center">
 <table>
