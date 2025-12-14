@@ -129,6 +129,10 @@
 
 ---
 
+[![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -158,8 +162,6 @@
   </a>
 
 </div>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 
 <div align="center">  
 
