@@ -1,14 +1,13 @@
 <!-- <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/8469933.jpg" alt="banner" />
 </h1>  -->
-<!--  <h1 align="center" style="margin-left: 10px;">
+<h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br>
- -->
-<div align="center">
+<!-- <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+</div> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Gia+Si!" alt="Gia Si" /></a>
@@ -20,25 +19,28 @@
 </div>
 <h2 align="center">You Can Reach Me At 🔗</h2>
 <br>
+
 <div align="center">
-  <a href="https://nguyentrangiasi.id.vn" target="blank">
-    <img width="90" height="90" src="logo-github.png" alt="nguyentrangiasi" />
+  
+  <a href="https://nguyentrangiasi.id.vn" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://facebook.com/USER.NTGS" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyentrangiasi" />
+  <a href="https://facebook.com/USER.NTGS" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://youtube.com/@iamgiasi" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyentrangiasi" />
+  <a href="https://youtube.com/@iamgiasi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.linkedin.com/in/giasinguyen" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyentrangiasi" />
+  <a href="https://www.linkedin.com/in/giasinguyen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/giasinguyen" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyentrangiasi" />
+  <a href="https://instagram.com/giasinguyen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:giasinguyentran@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyentrangiasi" />
+  <a href="mailto:giasinguyentran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
