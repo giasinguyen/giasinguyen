@@ -68,21 +68,38 @@
   </tr>
 </table>
 
-<div align="center">  
+<h2 align="center">📊 Activity & Analytics</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&theme=radical)
-</div>
+<br/>
+
 <div align="center">
-<table>
-  
-| My Github Stats             | My most used languages |
-:-:|:-:
-[![Stats](https://acedev003-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/giasinguyen)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/giasinguyen)
-</table>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-###
-[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&theme=react-dark)](https://github.com/giasinguyen)
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/giasinguyen">
+        <img src="https://acedev003-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&theme=radical&count_private=true&hide=issues,contribs&hide_border=true" alt="Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/giasinguyen">
+        <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit&hide_border=true" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/giasinguyen">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&theme=radical&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+</div>
 
 <h2 align="center">🚀 Featured Repositories</h2>
 
