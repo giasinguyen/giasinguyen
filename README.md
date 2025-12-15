@@ -9,13 +9,13 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br> -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <br/>
-
+      
 ```java
 public class GiaSi {
     public String identity = "👨‍💻 Full Stack Developer";
@@ -40,15 +40,6 @@ public class GiaSi {
     }
 }
 ```
-</tr> </table>
-</td>
-<td width="40%" valign="center">
-  <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4weXpoNTk1bTNtNGhrM254eGV6amM0d2NhcnFrNHh6ZmZidXpuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="100%" alt="Coding GIF">
-  </div>
-</td>
-</tr> </table>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
 
