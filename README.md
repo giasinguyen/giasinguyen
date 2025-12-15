@@ -182,33 +182,29 @@
 <h2 align="center">🚀 Featured Repositories</h2>
 
 <div align="center">
-<a href="https://github.com/giasinguyen/aurora-hotel-management-system">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Daurora-hotel-management-system%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="Aurora Hotel" />
-</a>
-<a href="https://github.com/giasinguyen/codehub-platform">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Dcodehub-platform%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="CodeHub Platform" />
-</a>
+  <a href="https://github.com/giasinguyen/aurora-hotel-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=aurora-hotel-management-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="Aurora Hotel" />
+  </a>
+  <a href="https://github.com/giasinguyen/codehub-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=codehub-platform&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="CodeHub Platform" />
+  </a>
 
+  <br/>
 
+  <a href="https://github.com/giasinguyen/snapnow-social-media-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=snapnow-social-media-app&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="SnapNow" />
+  </a>
+  <a href="https://github.com/giasinguyen/solestore-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=solestore-ecommerce&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="SoleStore" />
+  </a>
 
+  <br/>
 
-
-<a href="https://github.com/giasinguyen/snapnow-social-media-app">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Dsnapnow-social-media-app%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="SnapNow" />
-</a>
-<a href="https://github.com/giasinguyen/solestore-ecommerce">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Dsolestore-ecommerce%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="SoleStore" />
-</a>
-
-
-
-
-
-<a href="https://github.com/giasinguyen/huongbien-restaurant-system">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Dhuongbien-restaurant-system%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="HuongBien Restaurant" />
-</a>
-<a href="https://github.com/giasinguyen/giasi-dev-portfolio">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgiasinguyen%26repo%3Dgiasi-dev-portfolio%26theme%3Dreact%26border_color%3D61dafb%26border_radius%3D10%26bg_color%3D0d1117%26title_color%3D61dafb%26icon_color%3D61dafb" height="130" alt="Portfolio" />
-</a>
+  <a href="https://github.com/giasinguyen/huongbien-restaurant-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=huongbien-restaurant-system&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="HuongBien Restaurant" />
+  </a>
+  <a href="https://github.com/giasinguyen/giasi-dev-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=giasinguyen&repo=giasi-dev-portfolio&theme=react&border_color=61dafb&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb" height="130" alt="Portfolio" />
+  </a>
 </div>
 
