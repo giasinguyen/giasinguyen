@@ -15,37 +15,58 @@
     <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="320" />
 </div>
 
-## 💻 Tech Stack
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,dart&perline=10" alt="Languages" />
-
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap&perline=10" alt="Frontend" />
-
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&perline=10" alt="Backend" />
-
-  <h3>Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,react,android&perline=10" alt="Mobile" />
-
-  <h3>Database</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,mssql,redis,firebase&perline=10" alt="Database" />
-
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,postman,idea,vscode,nginx,jenkins&perline=11" alt="DevOps" />
-
-  <h3>Cloud & Hosting</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku&perline=10" alt="Cloud" />
-
-</div>
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -139,3 +160,5 @@
     </td>
   </tr>
 </table>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
