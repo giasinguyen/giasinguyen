@@ -1,3 +1,4 @@
+
 <img width="887" height="417" alt="image" src="https://github.com/user-attachments/assets/1f30a691-4342-4e41-bfbf-40ff3c7834fd" /><h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Gia+Si!" alt="Gia Si" /></a>
     </h1>
