@@ -9,6 +9,27 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br> -->
+## <img src="https://giphy.com/gifs/PersonaJourney-debug-debugging-hiroshidebug-66M6ZwJkTLYikvhrqZ" width="30"> About Me
+
+<img align="right" width="300" height="150" src="https://giphy.com/gifs/PersonaJourney-debug-debugging-hiroshidebug-66M6ZwJkTLYikvhrqZ">
+
+```java
+public class GiaSi {
+    public String identity = "👨‍💻 Full Stack Developer | ☕ Java Enthusiast";
+    public String[] passions = {"💻 Coding", "📸 Photography", "🎵 Music"};
+    public String currentFocus = "Building scalable apps with Spring Boot & React";
+    public String[] techStack = {"Java", "JavaScript", "Spring Boot", "ReactJS"};
+    public String philosophy = "Clean code, scalable architecture";
+    public String[] askMeAbout = {"Web Dev", "System Design", "Database", "UI/UX"};
+    public String contact = "giasinguyentran@gmail.com";
+    public String funFact = "I treat bugs as features until fixed 🐛";
+
+    public void sayHello() {
+        System.out.println("Welcome to my GitHub profile! 🚀");
+    }
+}
+```
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
