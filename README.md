@@ -11,62 +11,62 @@
 <br> -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
 
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,dart&perline=14" alt="Languages" />
-  <br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>Languages</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,js,ts,py,dart" alt="Languages" />
+    </td>
+  </tr>
 
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap&perline=14" alt="Frontend" />
-  <br/><br/>
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>Frontend</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap" alt="Frontend" />
+    </td>
+  </tr>
 
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&perline=14" alt="Backend" />
-  <br/><br/>
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>Backend</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" alt="Backend" />
+    </td>
+  </tr>
 
-  <b>Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&perline=14" alt="Database" />
-  <br/><br/>
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>Database</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" alt="Database" />
+    </td>
+  </tr>
 
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,postman,idea,vscode,nginx,jenkins&perline=14" alt="DevOps" />
-  <br/><br/>
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>DevOps & Tools</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,postman,idea,vscode,nginx,jenkins" alt="DevOps" />
+    </td>
+  </tr>
 
-  <b>Cloud & Hosting</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku&perline=14" alt="Cloud" />
-
-</div>
-
-<h2 align="center">🤝 Connect with Me</h2>
-
-<div align="center">
-  <a href="https://nguyentrangiasi.id.vn" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://facebook.com/USER.NTGS" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@iamgiasi" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/giasinguyen" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/giasinguyen" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:giasinguyentran@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="40" height="40"/>
-  </a>
-</div>
-
-</br> </br>
+  <tr>
+    <td align="center" width="130" valign="middle">
+      <b>Cloud</b>
+    </td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku" alt="Cloud" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">  
 
@@ -166,5 +166,6 @@
 <sub>Made with 💖 and ☕ by <b>Gia Si Nguyen</b></sub>
 
 </div>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 </div>
