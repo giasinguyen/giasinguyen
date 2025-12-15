@@ -38,33 +38,38 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,heroku&perline=14" alt="Cloud" />
 
 </div>
----
+
 <h2 align="center">🤝 Connect with Me</h2>
 
 <div align="center">
+
   <a href="https://nguyentrangiasi.id.vn" target="_blank">
-    <img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="40" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+  &nbsp;
   <a href="https://facebook.com/USER.NTGS" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  &nbsp;
   <a href="https://youtube.com/@iamgiasi" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/giasinguyen" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/giasinguyen" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="mailto:giasinguyentran@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </div>
 
 </br> </br>
-
----
 
 <div align="center">  
 
