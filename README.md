@@ -9,23 +9,34 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br> -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<img align="right" width="300" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
 
 ```java
 public class GiaSi {
-    public String identity = "👨‍💻 Full Stack Developer | ☕ Java Enthusiast";
-    public String[] passions = {"💻 Coding", "📸 Photography", "🎵 Music"};
-    public String currentFocus = "Building scalable apps with Spring Boot & React";
-    public String[] techStack = {"Java", "JavaScript", "Spring Boot", "ReactJS"};
-    public String philosophy = "Clean code, scalable architecture";
-    public String[] askMeAbout = {"Web Dev", "System Design", "Database", "UI/UX"};
-    public String contact = "giasinguyentran@gmail.com";
-    public String funFact = "I treat bugs as features until fixed 🐛";
+    public String identity = "👨‍💻 Full Stack Developer";
+    public String location = "🌏 Vietnam";
+    
+    // Coding, Photography, Music
+    public String[] passions = {
+        "💻", "📸", "🎵"
+    };
 
+    public String currentFocus = "Spring Boot & React";
+
+    public String[] techStack = {
+        "Java", "JavaScript",
+        "Spring Boot", "ReactJS"
+    };
+
+    public String contact = "giasinguyentran@gmail.com";
+    
     public void sayHello() {
-        System.out.println("Welcome to my GitHub profile! 🚀");
+        System.out.println("Hello, World! 🚀");
     }
 }
 ```
