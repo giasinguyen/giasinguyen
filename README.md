@@ -11,7 +11,6 @@
 <br> -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
-
 <div align="center">
 
   <b>Languages</b><br/>
@@ -42,31 +41,29 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <div align="center">
-
   <a href="https://nguyentrangiasi.id.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://facebook.com/USER.NTGS" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://youtube.com/@iamgiasi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/giasinguyen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/giasinguyen" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:giasinguyentran@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="40" height="40"/>
   </a>
-
 </div>
 
 </br> </br>
