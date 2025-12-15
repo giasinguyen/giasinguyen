@@ -9,9 +9,9 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br> -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF">
+<img align="right" width="300" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
 
 ```java
 public class GiaSi {
@@ -28,7 +28,7 @@ public class GiaSi {
         System.out.println("Welcome to my GitHub profile! 🚀");
     }
 }
-
+```
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
