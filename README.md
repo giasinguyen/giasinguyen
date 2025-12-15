@@ -73,7 +73,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giasinguyen&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=giasinguyen&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 </div>
 
 <br/>
