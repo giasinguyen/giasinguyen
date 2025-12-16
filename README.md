@@ -10,9 +10,9 @@
 </h1>
 <br> -->
 
-<table border="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="top" align="left" style="padding-right: 20px;">
         <div align="center">
           <h2>
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
