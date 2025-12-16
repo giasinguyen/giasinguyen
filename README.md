@@ -74,10 +74,6 @@
   <img src="https://streak-stats.demolab.com?user=giasinguyen&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
   
   <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=giasinguyen&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-  </a>
 </div>
 
 <br/>
