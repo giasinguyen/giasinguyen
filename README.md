@@ -20,7 +20,7 @@
   <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
   <p>📚 I constantly explore new technologies, from databases (SQL/NoSQL) to DevOps tools (Docker/K8s) and Cloud platforms.</p>
   <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
-  <img src="https://camo.githubusercontent.com/2952da337d62331f2304315c705292094dc9bc1b456660838766606670667066/68747470733a2f2f692e67697068792e636f6d2f6d656469612f78543949677a6f467466617649686f664f2f67697068792e676966" width="500"/>
+  <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="500"/>
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
