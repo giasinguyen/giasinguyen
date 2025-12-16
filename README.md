@@ -105,14 +105,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/giasinguyen">
-    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&bg_color=0d1117&color=ffffff&line=FF3355&point=FF3355&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  </a>
-</div>
-
 <h2 align="center">🚀 Featured Repositories</h2>
 
 <table align="center" border="0">
