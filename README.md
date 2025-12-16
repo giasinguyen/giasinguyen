@@ -10,6 +10,15 @@
 </h1>
 <br> -->
 
+<div style="text-align: center;">
+  <h3>About Me</h3>
+  <p>👨‍💻 I'm a passionate Full Stack Developer specializing in the Java ecosystem (Spring Boot) and modern frontend with ReactJS & Next.js.</p>
+  <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
+  <p>📚 I constantly explore new technologies, from databases (SQL/NoSQL) to DevOps tools (Docker/K8s) and Cloud platforms.</p>
+  <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
