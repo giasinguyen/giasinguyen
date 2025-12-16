@@ -24,10 +24,10 @@
           <p>👨‍💻 I'm a passionate Full Stack Developer specializing in the ☕ <b>Java ecosystem (Spring Boot 🍃)</b> and modern frontend with ⚛️ <b>ReactJS & Next.js</b>.</p>
           <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
           <p>📚 I constantly explore new technologies, from databases (🗄️ SQL/NoSQL) to DevOps tools (🐳 Docker/K8s) and ☁️ Cloud platforms (AWS/Cloudinary).</p>
-          <p>
-            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,android,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
-          </p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
+          <p>
+            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+          </p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
           <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" alt="Coding GIF"/>
