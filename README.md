@@ -24,6 +24,9 @@
           <p>👨‍💻 I'm a passionate Full Stack Developer specializing in the ☕ <b>Java ecosystem (Spring Boot 🍃)</b> and modern frontend with ⚛️ <b>ReactJS & Next.js</b>.</p>
           <p>💼 I focus on designing scalable architectures, building robust backend systems, and writing clean, efficient code.</p>
           <p>📚 I constantly explore new technologies, from databases (🗄️ SQL/NoSQL) to DevOps tools (🐳 Docker/K8s) and ☁️ Cloud platforms (AWS/Cloudinary).</p>
+          <p>
+            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,android,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+          </p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
