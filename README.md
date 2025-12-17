@@ -9,7 +9,6 @@
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
 </h1>
 <br> -->
-
 <div align="center" style="background-color: #0d1117;">
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
     <tr>
@@ -206,7 +205,7 @@
 
 <br>
 
-<sub>Made with 💖 and ☕ by <b>Gia Si Nguyen</b></sub>
+<sub>Made with 💖 and ☕ by <b>Nguyen Tran Gia Si</b></sub>
 
 </div>
 
