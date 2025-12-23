@@ -206,8 +206,6 @@
 <br>
 
 <sub>Made with 💖 and ☕ by <b>Nguyen Tran Gia Si</b></sub>
-
 </div>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
 </div>
