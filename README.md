@@ -126,7 +126,7 @@
   </a>
 </div>
 
-<!-- <h2 align="center">🚀 Featured Repositories</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
 
 <table align="center" border="0">
   <tr>
@@ -165,7 +165,7 @@
       </a>
     </td>
   </tr>
-</table> -->
+</table>
 <br>
 
 <div align="center">
