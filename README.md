@@ -5,9 +5,9 @@
 <!-- <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/8469933.jpg" alt="banner" />
 </h1>  -->
-<h1 align="center" style="margin-left: 10px;">
+<!-- <h1 align="center" style="margin-left: 10px;">
   <img src="https://github.com/giasinguyen/giasinguyen/blob/main/new_profile.svg" alt="iamgiasi" />
-</h1>
+</h1> -->
 <br>
 <div align="center" style="background-color: #0d1117;">
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-<h2 align="center">📊 Activity & Analytics</h2>
+<!-- <h2 align="center">📊 Activity & Analytics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=giasinguyen&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
@@ -124,7 +124,7 @@
   <a href="https://github.com/giasinguyen">
     <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=giasinguyen&bg_color=0d1117&color=ffffff&line=FF3355&point=FF3355&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
-</div>
+</div> -->
 
 <!-- <h2 align="center">🚀 Featured Repositories</h2>
 
@@ -168,7 +168,7 @@
 </table>
 <br> -->
 
-<div align="center">
+<!-- <div align="center">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand" width="30" height="30" /> Random Dev Quote
 
@@ -211,4 +211,4 @@
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
-</div>
+</div> -->
