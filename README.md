@@ -36,5 +36,4 @@
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://LinkedIn.com/giasinguyen)
 </p>
 
-| <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=giasinguyen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Giasinguyen's github stats" /></a> | <a href="https://github.com/giasinguyen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giasinguyen&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
