@@ -25,7 +25,7 @@
           <p>📚 I constantly explore new technologies, from databases (🗄️ SQL/NoSQL) to DevOps tools (🐳 Docker/K8s) and ☁️ Cloud platforms (AWS/Cloudinary).</p>
           <p>🌟 Fun fact: "I treat bugs as unexpected features until I fix them 🐛"</p>
           <p>
-            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,aws,firebase,aws,docker,kubernetes" alt="My Tech Stack" />
+            <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,aws,firebase,docker,kubernetes" alt="My Tech Stack" />
           </p>
       </td>
       <td width="50%" valign="middle" align="center" style="border: none;">
