@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-<!-- <h2 align="center">📊 Activity & Analytics</h2>
+<h2 align="center">📊 Activity & Analytics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=giasinguyen&theme=radical&hide_border=true&ring=FF3355&fire=FF3355&currStreakNum=FF3355&sideNums=FF3355" alt="GitHub Streak" />
@@ -211,4 +211,4 @@
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=giasinguyen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giasinguyen)
-</div> -->
+</div>
