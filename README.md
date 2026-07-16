@@ -126,7 +126,7 @@
   </a>
 </div> -->
 
-<!-- <h2 align="center">🚀 Featured Repositories</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
 
 <table align="center" border="0">
   <tr>
@@ -168,7 +168,7 @@
 </table>
 <br> -->
 
-<!-- <div align="center">
+<div align="center">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand" width="30" height="30" /> Random Dev Quote
 
