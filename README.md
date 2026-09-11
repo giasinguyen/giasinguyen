@@ -5,7 +5,7 @@
 <br>
 <div align="center" style="background-color: #0d1117;">
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
-    <tr>
+    <tr> 
       <td width="50%" valign="top" align="left" style="padding-right: 20px; border: none;">
           <div align="center">
             <h2>
