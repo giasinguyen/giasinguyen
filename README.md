@@ -7,7 +7,7 @@
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
     <tr>  
       <td width="50%" valign="top" align="left" style="padding-right: 20px; border: none;">
-          <div align="center"> 
+          <div align="center">  
             <h2>
               <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="35" height="35" />
               About Me
