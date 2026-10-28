@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="12px">
+<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
+<g fill="#8b949e" xml:space="preserve">
+<text x="24" y="34" xml:space="preserve">                    .:::.</text>
+<text x="24" y="48" xml:space="preserve">                .-+#%%%%%#+:</text>
+<text x="24" y="62" xml:space="preserve">               -%@@@@@@@@%@#:</text>
+<text x="24" y="76" xml:space="preserve">              :@%#***++++++#%#:</text>
+<text x="24" y="90" xml:space="preserve">              +%+==---------+%*</text>
+<text x="24" y="104" xml:space="preserve">              -*=++==---==++=**</text>
+<text x="24" y="118" xml:space="preserve">             .:=++**+===+**+===.</text>
+<text x="24" y="132" xml:space="preserve">             :+=======-=-==--=+-</text>
+<text x="24" y="146" xml:space="preserve">              :===--=+===----=-</text>
+<text x="24" y="160" xml:space="preserve">               .=====+++==-==:</text>
+<text x="24" y="174" xml:space="preserve">                .===+++++===-</text>
+<text x="24" y="188" xml:space="preserve">                 -++======++=#*</text>
+<text x="24" y="202" xml:space="preserve">                *%=+****++=+#@@*:.</text>
+<text x="24" y="216" xml:space="preserve">             .:+@%*===+++*#%@@%@@%#+-:.</text>
+<text x="24" y="230" xml:space="preserve">        :-=+#%@@%@@@%+*@@@@@@%@%@@@@@%%#+=:</text>
+<text x="24" y="244" xml:space="preserve">    .=*%%@@@@@%%@@@@@@@@@@@@@@@@@@%%%@@@@@%#:</text>
+<text x="24" y="258" xml:space="preserve">   :%@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@*</text>
+<text x="24" y="272" xml:space="preserve">  :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%:</text>
+<text x="24" y="286" xml:space="preserve">  #@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@-</text>
+<text x="24" y="300" xml:space="preserve"> -@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@-</text>
+<text x="24" y="314" xml:space="preserve"> *@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@-</text>
+<text x="24" y="328" xml:space="preserve">:%%##+=++#@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@%%%:</text>
+<text x="24" y="342" xml:space="preserve">@@#=======*@@@@@@@@@@@@%%@@@@@@@@@@@@@@@%%%@#</text>
+<text x="24" y="356" xml:space="preserve">###+==+====+%%%%%##*++=====+++*#%#####%%@@%@=</text>
+<text x="24" y="370" xml:space="preserve">=-===-=========-------------==++==-----=+#%%.</text>
+<text x="24" y="384" xml:space="preserve">====-----------======++*++======------====#=</text>
+<text x="24" y="398" xml:space="preserve">==================++++++======------====+-.</text>
+<text x="24" y="412" xml:space="preserve">+===++++++===+++***++===================-</text>
+<text x="24" y="426" xml:space="preserve">+******+++**#%%#*++===+++++++++=======+#:</text>
+<text x="24" y="440" xml:space="preserve">.::::::#@%@@@@@@@@%%#****************#%@-</text>
+<text x="24" y="454" xml:space="preserve">       %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-</text>
+</g>
+<text x="390" y="45" xml:space="preserve"><tspan fill="#58a6ff">giasinguyen@github </tspan><tspan fill="#484f58">────────────────────────────</tspan></text>
+<text x="390" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
+<text x="390" y="108" xml:space="preserve"><tspan fill="#ffa657">Role: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">Java Backend Developer</tspan></text>
+<text x="390" y="129" xml:space="preserve"><tspan fill="#ffa657">Education: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">Software Engineering · IUH</tspan></text>
+<text x="390" y="150" xml:space="preserve"><tspan fill="#ffa657">Focus: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">Spring Boot · REST APIs</tspan></text>
+<text x="390" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">IntelliJ IDEA · VS Code</tspan></text>
+<text x="390" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">Java, TypeScript, SQL</tspan></text>
+<text x="390" y="234" xml:space="preserve"><tspan fill="#ffa657">Frameworks: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">Spring Boot, React, Next.js</tspan></text>
+<text x="390" y="255" xml:space="preserve"><tspan fill="#ffa657">Databases: </tspan><tspan fill="#484f58">· </tspan><tspan fill="#c9d1d9">PostgreSQL, MongoDB, Redis</tspan></text>
+<text x="390" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Projects </tspan><tspan fill="#484f58">──────────────────────────────────</tspan></text>
+<text x="390" y="318" xml:space="preserve"><tspan fill="#ffa657">E-Commerce: </tspan><tspan fill="#c9d1d9">NexaTech · NatureGrain</tspan></text>
+<text x="390" y="339" xml:space="preserve"><tspan fill="#ffa657">Other: </tspan><tspan fill="#c9d1d9">Aurora Hotel · Chatly</tspan></text>
+<text x="390" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub </tspan><tspan fill="#484f58">────────────────────────────────────</tspan></text>
+<text x="390" y="402" xml:space="preserve"><tspan fill="#ffa657">Profile: </tspan><tspan fill="#c9d1d9">github.com/giasinguyen</tspan></text>
+<text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Specialties: </tspan><tspan fill="#c9d1d9">REST APIs · JWT · Microservices</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#ffa657">Tools: </tspan><tspan fill="#c9d1d9">Docker · Git · AWS</tspan></text>
+</svg>
